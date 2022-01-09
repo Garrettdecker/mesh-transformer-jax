@@ -1,1 +1,1 @@
-gs://gpt-j-weights/question_answer_data/tfrecords/QAdataset_{seqnum}.tfrecords
+gs://gpt-j-weights/question_answer_data/tfrecords/QAdataset_99.tfrecords
