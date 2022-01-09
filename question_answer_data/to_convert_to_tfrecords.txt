@@ -1,0 +1,1 @@
+python create_finetune_tfrecords.py question_answer_data/raw/ QAdataset --output-dir question_answer_data/tfrecords/ --normalize-with-wikitext-detokenize --n-repack-epochs 3

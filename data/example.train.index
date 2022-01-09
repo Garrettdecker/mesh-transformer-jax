@@ -1,1 +1,2 @@
-gs://your-bucket/datasets/your.tfrecords
+gs://gpt-j-weights/saturday_data/tfrecords/message_1_{seqnum}.tfrecords
+gs://gpt-j-weights/saturday_data/tfrecords/message_2_{seqnum}.tfrecords
